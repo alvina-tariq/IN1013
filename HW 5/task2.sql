@@ -21,4 +21,4 @@ WHERE room_name = 'Blue';
 -- 5
 SELECT DISTINCT COUNT(table_no)
 FROM restBill
-WHERE waiter_no = '004' AND '002;'
+WHERE waiter_no = '004' AND '002';
